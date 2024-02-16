@@ -16,7 +16,7 @@ Hareesh Naik
           </span>
           <br/>
           <span className={Styles.heroSubText}>
-            I am a Front End Developer
+            I am a Web Developer
 
           </span>
         </span>
