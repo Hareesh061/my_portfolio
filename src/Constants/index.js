@@ -6,12 +6,12 @@ import reactjs from "../assets/reactjs.png";
 import mongodb from "../assets/mongodb.png";
 import javascript from "../assets/javascript.png";
 import kotlin from "../assets/kotlin.png";
-import web from "../assets/web.jpeg";
+import web from "../assets/web.jpg";
 import typescript from "../assets/typescript.png";
 import git from "../assets/git.png";
-import pro1 from "../assets/pro1.jpg";
-import pro2 from "../assets/pro2.jpg";
-import pro3 from "../assets/pro3.jpg";
+import pro1 from "../assets/web.jpg";
+import pro2 from "../assets/web.jpg";
+import pro3 from "../assets/web.jpg";
 
 
 
@@ -74,7 +74,7 @@ const projects =[
             },
 
             {
-                name:"angular",
+                name:"git",
                 color:"green-text-gradient",
             },
             {
