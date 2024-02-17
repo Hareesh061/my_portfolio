@@ -22,9 +22,9 @@ Hareesh Naik
         </span>
 
         <br/>
-        <div className='w-[14rem'>
+        <div className='w-[14rem]'>
             <a  href={Resume} download="Resume" target='blank' rel='noreferrer'>
-              <div className='p-4 mt-2 w-[14rem] rounded-xl text-orange-500 flex justify-center border-2 border-orange-500 hover:border-violet-500  shadow-lg hover:shadow-pink-500' ><TiArrowDownOutline className='text-lg mr-3 mt-1 text-orange-500 '>
+              <div className='p-4 mt-2 w-[14rem] rounded-xl text-orange-500 flex justify-center border-2 border-orange-500 hover:border-violet-500  shadow-lg hover:shadow-blue-500' ><TiArrowDownOutline className='text-lg mr-3 mt-1 text-orange-500 '>
 
               </TiArrowDownOutline>
                  Resume

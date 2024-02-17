@@ -7,13 +7,18 @@ import mongodb from "../assets/mongodb.png";
 import javascript from "../assets/javascript.png";
 import kotlin from "../assets/kotlin.png";
 import web from "../assets/web.jpg";
-import typescript from "../assets/typescript.png";
+import linux from "../assets/linux.jpg"
 import git from "../assets/git.png";
+import mysql from "../assets/mysql.png"
+import bootstrap from "../assets/bootstrap.png"
 import pro1 from "../assets/web.jpg";
+import android from "../assets/android.png"
 import pro2 from "../assets/web.jpg";
 import pro3 from "../assets/web.jpg";
-
-
+import php from "../assets/php.png"
+import python from "../assets/python.png"
+import openai from "../assets/openai.png"
+import office from "../assets/office.png"
 
 const services =[
     {
@@ -60,6 +65,60 @@ const technologies =[
         name: 'git',
         icon: git,
     },
+    {
+        name: 'linux',
+        icon: linux,
+    },
+    {
+        name: 'nodejs',
+        icon: nodejs,
+    },
+    {
+        name: 'openai',
+        icon: openai,
+    },
+
+    {
+        name: 'office',
+        icon: office,
+    },
+
+    {
+        name: 'reactjs',
+        icon: reactjs,
+    },
+
+    {
+        name: 'tailwind',
+        icon: tailwind,
+    },
+    {
+        name: 'kotlin',
+        icon: kotlin,
+    },
+    {
+        name: 'bootstrap',
+        icon: bootstrap,
+    },
+    {
+        name: 'android',
+        icon: android,
+    },
+
+    {
+        name: 'mysql',
+        icon: mysql,
+    },
+
+    {
+        name: 'php',
+        icon: php,
+    },
+    {
+        name: 'python',
+        icon: python,
+    },
+ 
 ];
 
 const projects =[
