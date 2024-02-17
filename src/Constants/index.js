@@ -125,7 +125,7 @@ const projects =[
     {
         name:"pro1",
         description:
-        "this is my first project.",
+        "this is my igpiyfif piyfuypfpt pyufyuf pyf yf pyfpyfytp ug oiugif pyf uo dtd of yfyyfy first project.",
         tags:[
             {
                 name:"typescript",
@@ -148,7 +148,7 @@ const projects =[
     {
         name:"Todo App",
         description:
-        "thsi is new one",
+        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
         tags:[
             {
                 name:"react",
@@ -171,7 +171,7 @@ const projects =[
     {
         name:"oxibook",
         description:
-        "kdh dhid hid sdid",
+        "kdh dhid hid s knnb biib ui iu kg iu igiug iugiu  iuyfiuy yf yfyfyfyfyufyf uyfiyfy uy uyfyfyfiyfiyf iyfyif did",
         tags:[
             {
                 name:"react js",
