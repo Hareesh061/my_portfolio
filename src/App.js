@@ -3,7 +3,8 @@ import About from "./Components/About";
 import Navbar from "./Components/Navbar";
 import OverView from "./Components/OverView";
 import Project from "./Components/Project";
-
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -26,6 +27,11 @@ function App() {
      <OverView/>
       
       <Project/>
+
+      <Contact/>
+
+      <Footer/>
+
     </div>
    </div>
   );
