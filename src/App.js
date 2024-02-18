@@ -18,11 +18,12 @@ function App() {
       </div>
          <div className="relative">
           <About/>
+        
          </div>
-
+      
     </div>
-
     <div className="flex flex-col relative bg-white">
+  
 
      <OverView/>
       

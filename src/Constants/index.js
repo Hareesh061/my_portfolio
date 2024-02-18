@@ -191,6 +191,75 @@ const projects =[
         source_code_link:" ",
         source_deploy_link: " ",
     },
+    {
+        name:"Todo App",
+        description:
+        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
+        tags:[
+            {
+                name:"react",
+                color:"blue-text-gradient",
+            },
+            {
+                name:"Tailwind",
+                color:"green-text-gradient",
+            },
+
+            {
+                name:"css",
+                color:"pink-text-gradient",
+            },
+        ],
+        image:pro2,
+        source_code_link: " ",
+        source_diploy_link: " ",
+    },
+    {
+        name:"Todo App",
+        description:
+        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
+        tags:[
+            {
+                name:"react",
+                color:"blue-text-gradient",
+            },
+            {
+                name:"Tailwind",
+                color:"green-text-gradient",
+            },
+
+            {
+                name:"css",
+                color:"pink-text-gradient",
+            },
+        ],
+        image:pro2,
+        source_code_link: " ",
+        source_diploy_link: " ",
+    },
+    {
+        name:"Todo App",
+        description:
+        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
+        tags:[
+            {
+                name:"react",
+                color:"blue-text-gradient",
+            },
+            {
+                name:"Tailwind",
+                color:"green-text-gradient",
+            },
+
+            {
+                name:"css",
+                color:"pink-text-gradient",
+            },
+        ],
+        image:pro2,
+        source_code_link: " ",
+        source_diploy_link: " ",
+    },
 
 ];
 

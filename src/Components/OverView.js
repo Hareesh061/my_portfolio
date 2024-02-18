@@ -2,7 +2,6 @@ import React from 'react'
 import Tilt from 'react-parallax-tilt'
 import {Styles} from '../utils/Style'
 import { technologies,services } from '../Constants'
-import {motion} from "framer-motion"
 import './style.css'
 
 function OverView() {
@@ -10,18 +9,25 @@ function OverView() {
     <div>
       <div className='flex-row items-center pl-5 justify-center pt-3 ' id='Overview'>
        <span className={Styles.sectionHeadText}>
-        Introduction 
+        About Me..
        </span>
        <hr className='w-[35%]'></hr>
        <div className={Styles.sectionText}>
-       The individual in question is a fresh Computer Science graduate who brings forth a robust foundational understanding encompassing vital aspects such as data structures, algorithms, and programming languages. Demonstrating adaptability through a diverse array of projects and coursework, they exhibit a propensity for swift learning. Their adeptness in languages such as Java, Python, and C++ equips them to make meaningful contributions to coding endeavors. Proficiency in collaborative settings is evidenced by their participation in group projects, underscoring their appreciation for lucid communication.
+       I'm A Computer Science Graduate Has A Strong Foundation In Data Structures, Algorithms, And Programming Languages (C++), Along With A Proven Ability To Adapt Quickly, Collaborate Effectively, And Maintain A Strong Commitment To Quality And Innovation. Their Practical Experience And Dedication Make Them A Valuable Asset To Any Team.
        </div>
+  
       </div>
+      <br/>
+
+  
+
+      <h1 className='flex flex-wrap justify-center text-2xl'> My Services</h1>
 
        <div className='flex flex-wrap justify-center'>
           {
             services.map((service) => (
               <div>
+               
                 <Tilt
                   key={service.icon}
          className="parallax-effect-glare-scale"
