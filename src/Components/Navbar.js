@@ -13,7 +13,7 @@ const toggle = () =>{
 
   return (
     <div>
-        <nav className='fixed w-full z-20 top-0 bg-orange-200 bg-opacity-80'>
+        <nav className='fixed w-full z-20 top-0 bg-orange-300 bg-opacity-80'>
         <div className='max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2'>
           <img src="https://logos.textgiraffe.com/logos/logo-name/37167579-designstyle-flippy-m.png" className='h-8 ml-4' alt="logo"/>
 
@@ -32,7 +32,7 @@ const toggle = () =>{
 
         <Link spy={true} to='Home' activeClass='activeClass'>
     <li>
-        <div className='block py-2 pl-3 pr-4  rounded md:p-0 hover: text-orange-600  text-violet-700'>Home</div>
+        <div className='block py-2 pl-3 pr-4  rounded md:p-0 hover: text-Orange-600  text-violet-700'>Home</div>
     </li>
     </Link>
 

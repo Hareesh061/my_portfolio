@@ -11,14 +11,19 @@ import linux from "../assets/linux.jpg"
 import git from "../assets/git.png";
 import mysql from "../assets/mysql.png"
 import bootstrap from "../assets/bootstrap.png"
-import pro1 from "../assets/web.jpg";
+import pro1 from "../assets/pro1.png";
 import android from "../assets/android.png"
-import pro2 from "../assets/web.jpg";
-import pro3 from "../assets/web.jpg";
+import pro2 from "../assets/pro2.jpg";
+import pro3 from "../assets/pro3.png";
 import php from "../assets/php.png"
 import python from "../assets/python.png"
 import openai from "../assets/openai.png"
 import office from "../assets/office.png"
+import pro4 from "../assets/pro4.png"
+import pro5 from "../assets/pro5.png"
+import pro6 from "../assets/pro6.png"
+import pro7 from "../assets/pro7.png"
+import pro8 from "../assets/pro8.png"
 
 const services =[
     {
@@ -123,142 +128,80 @@ const technologies =[
 
 const projects =[
     {
-        name:"pro1",
+        name:"Hospitel Managament System",
         description:
-        "this is my igpiyfif piyfuypfpt pyufyuf pyf yf pyfpyfytp ug oiugif pyf uo dtd of yfyyfy first project.",
-        tags:[
-            {
-                name:"typescript",
-                color:"blue-text-gradient",
-            },
-
-            {
-                name:"git",
-                color:"green-text-gradient",
-            },
-            {
-                name:"bootstrap",
-                color:"pink-text-gradient",
-            },
-        ],
+        "The Hospital Management System streamlines healthcare operations by digitizing patient records, scheduling appointments, and managing administrative tasks.",
+        
         image:pro1,
-        source_code_link: " ",
+        source_code_link: "https://github.com/Hareesh061/Hospital-Management-Database-System ",
         source_deploy_link: "",
     },
     {
-        name:"Todo App",
+        name:"Diabeti Retinopathy",
         description:
-        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
-        tags:[
-            {
-                name:"react",
-                color:"blue-text-gradient",
-            },
-            {
-                name:"Tailwind",
-                color:"green-text-gradient",
-            },
-
-            {
-                name:"css",
-                color:"pink-text-gradient",
-            },
-        ],
+        "Diabetic retinopathy is a progressive eye condition resulting from diabetes, causing damage to the retina's blood vessels. ",
+        
         image:pro2,
-        source_code_link: " ",
+        source_code_link: " https://github.com/Hareesh061/Diabetic_Retina",
         source_diploy_link: " ",
     },
     {
-        name:"oxibook",
+        name:"Memes Application",
         description:
-        "kdh dhid hid s knnb biib ui iu kg iu igiug iugiu  iuyfiuy yf yfyfyfyfyufyf uyfiyfy uy uyfyfyfiyfiyf iyfyif did",
-        tags:[
-            {
-                name:"react js",
-                color:"blue-text-gradient",
-            },
-            {
-                name:"Tailwind",
-                color:"green-text-gradient",
-            },
-
-            {
-                name:"css",
-                color:"pink-text-gradient",
-            },
-        ],
+        "It's a simple memes application where you get a n number of memes which helps  to relax and have fun.",
+        
         image: pro3,
-        source_code_link:" ",
-        source_deploy_link: " ",
+        source_code_link:"https://github.com/Hareesh061/Memes_Application ",
+        source_deploy_link: "https://659a7ec3d5ec3e76dec89d7e--imaginative-cat-0ba4c6.netlify.app/ ",
     },
     {
-        name:"Todo App",
+        name:"Archery_Game",
         description:
-        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
-        tags:[
-            {
-                name:"react",
-                color:"blue-text-gradient",
-            },
-            {
-                name:"Tailwind",
-                color:"green-text-gradient",
-            },
-
-            {
-                name:"css",
-                color:"pink-text-gradient",
-            },
-        ],
-        image:pro2,
-        source_code_link: " ",
-        source_diploy_link: " ",
+        "Sharpen your aim and embrace the thrill of precision in our archery game. Unleash your inner marksman, hit the bullseye, and conquer the virtual bow-and-arrow challenge!",
+        
+        image:pro4,
+        source_code_link: "https://github.com/Hareesh061/ARCHERY-GAME ",
+        source_diploy_link: " https://hareesh061.github.io/ARCHERY-GAME/",
     },
     {
-        name:"Todo App",
+        name:"Rock_Paper_Scissor",
         description:
-        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
-        tags:[
-            {
-                name:"react",
-                color:"blue-text-gradient",
-            },
-            {
-                name:"Tailwind",
-                color:"green-text-gradient",
-            },
-
-            {
-                name:"css",
-                color:"pink-text-gradient",
-            },
-        ],
-        image:pro2,
-        source_code_link: " ",
-        source_diploy_link: " ",
+        "Experience the classic showdown with a digital twist! Rock, paper, or scissors – choose your strategy and engage in timeless fun with our interactive game of wit and chance",
+       
+        image:pro5,
+        source_code_link: "https://github.com/Hareesh061/rock_paper_scissor/tree/master ",
+        source_diploy_link: "https://hareesh061.github.io/rock_paper_scissor/ ",
     },
     {
-        name:"Todo App",
+        name:"JS CRUD Operation",
         description:
-        "thsi is newhgg iygiyguof yifyfp uoyf iygig iug puigiu iyg igigpiugfi ig ig iugiugiugiugiu iuguig ugug iugiugui  one",
-        tags:[
-            {
-                name:"react",
-                color:"blue-text-gradient",
-            },
-            {
-                name:"Tailwind",
-                color:"green-text-gradient",
-            },
+        "It's a simple javascript  project to perform Create Read Update Delete operation on JSON data.",
+        
+        image:pro6,
+        source_code_link: " https://github.com/Hareesh061/JS_CRUD_OPERATION",
+        source_diploy_link: "https://hareesh061.github.io/JS_CRUD_OPERATION/ ",
+    },
 
-            {
-                name:"css",
-                color:"pink-text-gradient",
-            },
-        ],
-        image:pro2,
-        source_code_link: " ",
-        source_diploy_link: " ",
+    
+    {
+        name:"Music APP",
+        description:
+        "Immerse yourself in a world of melodies with our music app powered by APIs. ",
+        image:pro7,
+        source_code_link: " https://github.com/Hareesh061/Musio_app",
+        source_diploy_link: "https://scintillating-swan-7e5b8a.netlify.app/",
+    },
+
+    
+    
+    {
+        name:"Medicare",
+        description:
+        "It's a simple web application created for the hospitality",
+       
+        image:pro8,
+        source_code_link: " https://github.com/Hareesh061/hospital-website",
+        source_diploy_link: "https://hareesh061.github.io/hospital-website/",
     },
 
 ];

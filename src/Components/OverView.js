@@ -16,7 +16,7 @@ function OverView() {
         <div className={Styles.sectionText}>
           <div className='flex flex-wrap '>
             <div className='text-description '>
-              I'm a Computer Science Graduate with a strong foundation in Data Structures, Algorithms, and Programming Languages (C++), along with a proven ability to adapt quickly, collaborate effectively, and maintain a strong commitment to quality and innovation. Their practical experience and dedication make them a valuable asset to any team.
+              I'm a <strong>Computer Science Graduate</strong> with a strong foundation in Data Structures, Algorithms, and Programming Languages (C++), along with a proven ability to adapt quickly, collaborate effectively, and maintain a strong commitment to quality and innovation. Their practical experience and dedication make them a valuable asset to any team.
             </div>
           
         </div>

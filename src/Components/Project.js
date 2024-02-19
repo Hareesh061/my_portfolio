@@ -12,7 +12,7 @@ function Project() {
         </span>
         <hr className='w-[35%]'></hr>
         <div className={Styles.sectionText}>
-          Exploring the intersection of artificial intelligence and sustainable development, this project aims to develop innovative solutions for optimizing resource utilization and reducing environmental impact. Leveraging advanced machine learning algorithms, the research focuses on creating intelligent systems that can enhance decision-making processes in areas such as energy efficiency, waste management, and conservation. The ultimate goal is to contribute to a more sustainable and technologically empowered future.
+        I excel in web development, creating user-friendly interfaces with HTML, CSS, and JavaScript. My front-end work focuses on responsive design and incorporates frameworks like React for optimal user experiences. On the back end, I build robust server-side logic using technologies like Node.js or Flask. Additionally, I've developed Python-based predictive models using machine learning libraries, seamlessly integrating them into web applications. My expertise extends to database design and optimization, ensuring efficient storage and retrieval of data through SQL queries. With a versatile skill set, I bring a comprehensive approach to projects that span front-end, back-end, prediction modeling, and database management.
         </div>
       </div>
 
