@@ -22,16 +22,16 @@ import office from "../assets/office.png"
 
 const services =[
     {
-    title:"web Developer",
+    title:"web Development",
     icon: web,
 },
 {
-    title:"Front-end Developer",
+    title:"Front-end Development",
     icon:reactjs,
 },
 
 {
-    title:"Android Developer",
+    title:"App Development",
     icon:kotlin,
 },
 

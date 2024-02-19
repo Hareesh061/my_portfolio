@@ -4,7 +4,7 @@ import { Styles } from '../utils/Style'
 function Contact() {
   return (
     <div>
-        <div className='flex-row items-center pl-3 justify-center pt-3' id='Overview'>
+        <div className='flex-row items-center pl-3 justify-center pt-3' id='Contact'>
             <span className={Styles.sectionHeadText}>
               Contact
             </span>

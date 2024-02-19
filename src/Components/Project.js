@@ -6,7 +6,7 @@ import {SiGithub,SiNetlify} from 'react-icons/si'
 function Project() {
   return (
     <div>
-      <div className='flex-row items-center pl-5 justify-center pt-3' id='Overview'>
+      <div className='flex-row items-center pl-5 justify-center pt-3' id='Projects'>
         <span className={Styles.sectionHeadText}>
           My Projects 
         </span>
