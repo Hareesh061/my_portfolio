@@ -130,20 +130,20 @@ const projects =[
     {
         name:"Hospitel Managament System",
         description:
-        "The Hospital Management System streamlines healthcare operations by digitizing patient records, scheduling appointments, and managing administrative tasks.",
+        "This is digitizing patient records, scheduling appointments, and managing administrative tasks.",
         
         image:pro1,
         source_code_link: "https://github.com/Hareesh061/Hospital-Management-Database-System ",
-        source_deploy_link: "",
+        source_deploy_link: "https://github.com/Hareesh061/Hospital-Management-Database-System",
     },
     {
-        name:"Diabeti Retinopathy",
+        name:"Diabetic Retinopathy",
         description:
         "Diabetic retinopathy is a progressive eye condition resulting from diabetes, causing damage to the retina's blood vessels. ",
         
         image:pro2,
         source_code_link: " https://github.com/Hareesh061/Diabetic_Retina",
-        source_diploy_link: " ",
+        source_deploy_link: "https://654f565d9fe23e1ca61b87db--famous-daifuku-ff58da.netlify.app/",
     },
     {
         name:"Memes Application",
@@ -161,7 +161,7 @@ const projects =[
         
         image:pro4,
         source_code_link: "https://github.com/Hareesh061/ARCHERY-GAME ",
-        source_diploy_link: " https://hareesh061.github.io/ARCHERY-GAME/",
+        source_deploy_link: " https://hareesh061.github.io/ARCHERY-GAME/",
     },
     {
         name:"Rock_Paper_Scissor",
@@ -170,7 +170,7 @@ const projects =[
        
         image:pro5,
         source_code_link: "https://github.com/Hareesh061/rock_paper_scissor/tree/master ",
-        source_diploy_link: "https://hareesh061.github.io/rock_paper_scissor/ ",
+        source_deploy_link: "https://hareesh061.github.io/rock_paper_scissor/ ",
     },
     {
         name:"JS CRUD Operation",
@@ -179,7 +179,7 @@ const projects =[
         
         image:pro6,
         source_code_link: " https://github.com/Hareesh061/JS_CRUD_OPERATION",
-        source_diploy_link: "https://hareesh061.github.io/JS_CRUD_OPERATION/ ",
+        source_deploy_link: "https://hareesh061.github.io/JS_CRUD_OPERATION/ ",
     },
 
     
@@ -189,7 +189,7 @@ const projects =[
         "Immerse yourself in a world of melodies with our music app powered by APIs. ",
         image:pro7,
         source_code_link: " https://github.com/Hareesh061/Musio_app",
-        source_diploy_link: "https://scintillating-swan-7e5b8a.netlify.app/",
+        source_deploy_link: "https://scintillating-swan-7e5b8a.netlify.app/",
     },
 
     
@@ -201,7 +201,7 @@ const projects =[
        
         image:pro8,
         source_code_link: " https://github.com/Hareesh061/hospital-website",
-        source_diploy_link: "https://hareesh061.github.io/hospital-website/",
+        source_deploy_link: "https://hareesh061.github.io/hospital-website/",
     },
 
 ];

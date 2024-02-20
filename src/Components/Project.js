@@ -18,7 +18,7 @@ function Project() {
 
       <div className='flex flex-wrap p-8 justify-evenly items-center'>
         {projects.map((project) => (
-          <Tilt key={project.name} className='w-[300px] h-[500px] flex flex-col justify-evenly shadow-2xl m-10 item-center hover:shadow-2xl hover:shadow-blue-400 shadow-red-200 p-3 rounded-xl border-2 border-violet-500'>
+          <Tilt key={project.name} className='w-[300px] h-[500px] flex flex-col justify-evenly shadow-2xl m-10 item-center hover:shadow-2xl hover:shadow-blue-400 shadow-green-200 p-3 rounded-xl border-2 border-violet-500'>
             <div className='text-2xl text-black-600 font-extrabold mb-3 text-center'>
               {project.name}
             </div>
